@@ -1,3 +1,4 @@
 # git-demo
+
 Git and Github Demo Repo <br>
-Author: Prabin Singh Thakuri
+Author: Prabin Singh Thakuri (Apna College)
